@@ -1,0 +1,30 @@
+baseURL = 'https://about.silicon.moe/'
+languageCode = 'en-us'
+title = 'About SiliconForest'
+theme = 'risotto'
+
+enableRobotsTXT = true
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "base16-dark"
+
+# Sidebar: about/bio
+[params.about]
+title = "About SiliconForest"
+description = "About SiliconForest"
+#logo = "images/siflogo-light.svg"
+
+[menu]
+#[[menu.main]]
+#  identifier = "about"
+#  name = "About"
+#  url = "/about/"
+#  weight = 5
+#[[menu.main]]
+#  identifier = "advisory"
+#  name = "Advisory"
+#  url = "/advisory/"
+#  weight = 10
