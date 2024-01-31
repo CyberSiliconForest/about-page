@@ -18,13 +18,8 @@ description = "About SiliconForest"
 #logo = "images/siflogo-light.svg"
 
 [menu]
-#[[menu.main]]
-#  identifier = "about"
-#  name = "About"
-#  url = "/about/"
-#  weight = 5
-#[[menu.main]]
-#  identifier = "advisory"
-#  name = "Advisory"
-#  url = "/advisory/"
-#  weight = 10
+[[menu.main]]
+  identifier = "notice"
+  name = "Notice"
+  url = "/notice/"
+  weight = 10
