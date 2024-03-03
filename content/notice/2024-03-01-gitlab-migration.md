@@ -20,8 +20,8 @@ Breaking changes will be:
 
 The migration plan is as follows:
 
-* On **2024-03-01**, SiliconForest GitLab will moved to `git-legacy.silicon.moe`, and a new Forgejo instance will launched at `git.silicon.moe`
-* **`git-legacy.silicon.moe` will be offline after three months (2024-06-01)**. You are responsible for migrating the repository or taking the backup in time.
+* ~~On **2024-03-01**, SiliconForest GitLab will moved to `git-old.silicon.moe`, and a new Forgejo instance will launched at `git.silicon.moe`~~ **2024-03-03**, SiliconForest GitLab moved to **git-old.silicon.moe** and Forgejo is online at **git.silicon.moe**
+* **`git-old.silicon.moe` will be offline after three months (2024-06-01)**. You are responsible for migrating the repository or taking the backup in time.
 * SiliconForest will accept SiliconForest ID requests for current GitLab users without SiliconForest ID during those **three months** but will **no longer accepted after that**.
 
 If you have any questions about the migration, please get in touch with the admin via [Fediverse account](https://social.silicon.moe/@perillamint) or `@perillamint:silicon.moe` Matrix account.
