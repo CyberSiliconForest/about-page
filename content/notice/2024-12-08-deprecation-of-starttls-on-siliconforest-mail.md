@@ -9,6 +9,6 @@ This change affects SiliconForest mail, which uses Mailu to provide service.
 
 To reduce the impact of this change, SiliconForest Mail chose to force-enable the STARTTLS port for three months.
 
-All users who rely on STARTTLS port (TCP 587 SMTP, TCP 143 IMAP) MUST change their configuration before 2024-12-08.
+All users who rely on STARTTLS port (TCP 587 SMTP, TCP 143 IMAP) MUST change their configuration to use SMTPS (TCP 465) and IMAPS (TCP 993) before 2024-12-08.
 
 If you have any questions about the change, please contact the admin via [Fediverse account](https://social.silicon.moe/@perillamint) or `@perillamint:silicon.moe` Matrix account.
