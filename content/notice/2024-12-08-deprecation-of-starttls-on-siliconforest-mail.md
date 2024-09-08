@@ -4,7 +4,7 @@ date: 2024-09-08T14:37:00+09:00
 draft: false
 ---
 
-Due to security concerns on STARTTLS, (Mailu disabled STARTTLS ports by default)[ref: https://mailu.io/master/releases.html#mailu-2024-06-2024-06).
+Due to [security concerns on STARTTLS](https://nostarttls.secvuln.info/), [Mailu disabled STARTTLS ports by default](https://mailu.io/master/releases.html#mailu-2024-06-2024-06).
 This change affects SiliconForest mail, which uses Mailu to provide service.
 
 To reduce the impact of this change, SiliconForest Mail chose to force-enable the STARTTLS port for three months.
