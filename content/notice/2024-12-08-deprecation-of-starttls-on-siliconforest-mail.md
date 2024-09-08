@@ -1,5 +1,5 @@
 ---
-title: "2024-12-08 Deprecate STARTTLS on SiliconForest Mail"
+title: "2024-12-08 Deprecation of STARTTLS on SiliconForest Mail"
 date: 2024-09-08T14:37:00+09:00
 draft: false
 ---
